@@ -2,7 +2,7 @@ Bonjour et bienvenus !!! :)
 
 Voici comment lancer le programme : 
 
-  DANS LE TERMINAL, TAPEZ LES COMMANDES SUIVANTES : 
+  DANS LE TERMINAL, TAPER LES COMMANDES SUIVANTES : 
 
     - git clone https://github.com/Maxx-N/s5_j1_gossip_project_first_views.git
 
@@ -13,9 +13,11 @@ Voici comment lancer le programme :
     - rails db:migrate
 
     - rails server
+    
+    (laisser tourner le serveur)
 
-  PUIS, SAISIR L'URL : 
+  PUIS, DANS VOTRE NAVIGATEUR, SAISIR L'URL : 
 
-    - http://localhost:3000/welcome/votre nom
+    - http://localhost:3000/welcome/votre prénom
 
   
