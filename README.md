@@ -1,24 +1,21 @@
-# README
+Bonjour et bienvenus !!! :) 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Voici comment lancer le programme : 
 
-Things you may want to cover:
+  DANS LE TERMINAL, TAPEZ LES COMMANDES SUIVANTES : 
 
-* Ruby version
+    - git clone https://github.com/Maxx-N/s5_j1_gossip_project_first_views.git
 
-* System dependencies
+    - cd s5_j1_gossip_project_first_views
 
-* Configuration
+    - bundle install
 
-* Database creation
+    - rails db:migrate
 
-* Database initialization
+    - rails server
 
-* How to run the test suite
+  PUIS, SAISIR L'URL : 
 
-* Services (job queues, cache servers, search engines, etc.)
+    - http://localhost:3000/welcome/votre nom
 
-* Deployment instructions
-
-* ...
+  
